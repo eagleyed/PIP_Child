@@ -5,7 +5,7 @@
 
  * Plugin Name:       Modify Picking List
 
- * Plugin URI:        https://www.moorefarmsandfriends.com
+ * Plugin URI:        https://globalgossip.co
 
  * Description:       This is a small custom child plugin to extending functionality of Woocommerce PIP plugin.
 
